@@ -31,7 +31,7 @@ Reproductive Medicine
 
 # Three Fun Facts about Me
 1) I enjoy traveling and am a lover for national parks!
-2) My favoriate animal is turtle!
+2) My favorite animal is turtle!
 3) If had the opportunity to choose one home-based activity, I would go without hesitation for structured LEGO building!
 
 
