@@ -1,0 +1,21 @@
+---
+title: "About me"
+author: "Mengmeng Li"
+date: "9/4/2021"
+output: html_document
+---
+
+
+### Three Fun Facts about Me
+1. I enjoy traveling and am a lover for national parks!
+2. My favorite animal is turtle!
+3. If had the opportunity to choose one home-based activity, I would go without    hesitation for structured LEGO building!
+
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+

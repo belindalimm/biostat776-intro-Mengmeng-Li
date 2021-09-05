@@ -1,0 +1,9 @@
+name: "Mengmeng's Website"
+output_dir: "."
+navbar:
+  title: "Mengmeng's Personal Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html

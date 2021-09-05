@@ -1,0 +1,65 @@
+---
+title: "Mengmeng's Personal Website"
+author: "Mengmeng Li"
+date: "9/4/2021"
+output: html_document
+---
+
+### About Me
+Hello! My name is Mengmeng Li, currently a 2nd-year Ph.D. student at the Department of Population, Family and Reproductive Health at JHSPH. I have also been working as a senior data analyst within the department on the Global Early Adolescent Study, which is an international multi-site prospective cohort project focusing on gender norm attitude evolving among young adolescents (aged 10-14) and how the gender norm perspectives shape the trajectory of sexual reproductive health in later adolescence and emerging adulthood.
+
+
+### Training
+I received my training in Public Health in 2015-2017; since then, I have been practicing the knowledge and skills acquired to research practices in the field to improve adolescent and reproductive health. Before my endeavor in the public health realm, I was trained as a general physician in China and received relevant training in molecular biology bench work.
+
+
+### Programming Language Skill Set
+* Stata
+* R
+* MPlus
+
+
+### Research Interests
+
+##### 1) Adolescent health
+
+   a. Emergence of and accumulation of gender norm attitudes in adolescents from      low-resources setting. 
+   b. How gender norm perspectives inform sexual reproductive knowledge and           health among adolescents through early to late adolescence.
+   c. Whether gender norm perspectives influence the level of empowerment             agencies (e.g., the ability to voice different opinions and being heard,        the freedom and power to make informed decisions) among young adolescents       through the whole adolescent period 
+  
+##### 2) Reproductive Medicine (with a focus on In-Vitro Fertilization)
+
+   a. How parameters in IVF procedure inform perinatal outcomes?
+   b. Long-term effects of IVF procedure on the health across life course.
+
+
+##### 3) Maternal, Fetal and Perinatal Health
+
+   a. Multi-level risks and protective factors for preterm birth and major            gestational complications.
+
+
+### Selected Publication
+
+##### Adolescent Health
+  1) Mengmeng Li, Krishna Rao, Kayhan Natiq, Omrana Pasha, and Robert Blum.          Coming of Age in the Shadow of the Taliban: Adolescents’ and Parents’           Views Toward Interpersonal Violence and Harmful Traditional Practices in        Afghanistan. American Journal of Public Health 108, 2018, Pages 1688_1694,      https://doi.org/10.2105/AJPH.2018.304697
+  
+  2) C. Moreau, M. Li, S. De Meyer, Loi Vu Manh, G. Guiella, R. Acharya, B.          Bello, B. Maina, K. Mmari. Measuring gender norms about relationships in        early adolescence: Results from the global early adolescent study, SSM -        Population Health, Volume 7, 2019, 100314, ISSN 2352-8273,                      https://doi.org/10.1016/j.ssmph.2018.10.014.
+  
+  3) Robert Wm Blum, Mengmeng Li, Gia Naranjo-Rivera. Measuring Adverse Child        Experiences Among Young Adolescents Globally: Relationships With Depressive      Symptoms and Violence Perpetration, Journal of Adolescent Health, Volume        65, Issue 1, 2019, Pages 86-93, ISSN 1054-139X,                                 https://doi.org/10.1016/j.jadohealth.2019.01.020.
+  
+  4) Caroline Moreau, Mengmeng Li, Saifuddin Ahmed, Xiayun Zuo, Beniamino            Cislaghi. Assessing the Spectrum of Gender Norms Perceptions in Early           Adolescence: A Cross-Cultural Analysis of the Global Early Adolescent           Study, Journal of Adolescent Health, Volume 69, Issue 1, Supplement, 2021,      Pages S16-S22, ISSN 1054-139X,                                                  https://doi.org/10.1016/j.jadohealth.2021.03.010.
+  
+  5) Beniamino Cislaghi, Amiya Bhatia, Mengmeng Li, Qiguo Lian, Sarah Baird,         Patrick Kayembe, Effie Chipeta, Caroline Moreau. Changes in the Sexual          Double Standard Associated With Sociodevelopmental Factors Among Young          Adolescents in Kinshasa, Journal of Adolescent Health, Volume 69, Issue 1,      Supplement, 2021, Pages S23-S30, ISSN 1054-139X,                                https://doi.org/10.1016/j.jadohealth.2020.07.041.
+
+
+##### Reproductive Medicine
+   1) Mengmeng Li, Jonathan Kort, Valerie L. Baker. Embryo biopsy and perinatal       outcomes of singleton pregnancies: an analysis of 16,246 frozen embryo          transfer cycles reported in the Society for Assisted Reproductive               Technology Clinical Outcomes Reporting System, American Journal of              Obstetrics and Gynecology, Volume 224, Issue 5, 2021, Pages                     500.e1-500.e18, ISSN 0002-9378,                                                 https://doi.org/10.1016/j.ajog.2020.10.043.
+   
+   2) Khunte, R., Li, M., Behr, B. et al. Blastocyst formation rate for Asians        versus Caucasians and within body mass index categories. J Assist Reprod        Genet 37, 933–943 (2020). https://doi.org/10.1007/s10815-020-01706-9
+   
+   
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
